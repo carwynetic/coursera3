@@ -1,0 +1,27 @@
+curl -s https://api.github.com/repos/carwynetic/mcino-Introduction-to-Git-and-GitHub/branches
+[
+  {
+    "name": "bug-fix-revert",
+    "commit": {
+      "sha": "5896b2dcd6b408739aed4082a5e93ec490630389",
+      "url": "https://api.github.com/repos/carwynetic/mcino-Introduction-to-Git-and-GitHub/commits/5896b2dcd6b408739aed4082a5e93ec490630389"
+    },
+    "protected": false
+  },
+  {
+    "name": "bug-fix-typo",
+    "commit": {
+      "sha": "9f53c0a3629366cb37e8806d869d6e98dbe121b6",
+      "url": "https://api.github.com/repos/carwynetic/mcino-Introduction-to-Git-and-GitHub/commits/9f53c0a3629366cb37e8806d869d6e98dbe121b6"
+    },
+    "protected": false
+  },
+  {
+    "name": "main",
+    "commit": {
+      "sha": "9f53c0a3629366cb37e8806d869d6e98dbe121b6",
+      "url": "https://api.github.com/repos/carwynetic/mcino-Introduction-to-Git-and-GitHub/commits/9f53c0a3629366cb37e8806d869d6e98dbe121b6"
+    },
+    "protected": false
+  }
+]
